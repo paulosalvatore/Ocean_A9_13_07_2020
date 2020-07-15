@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Ocean_A9_13_07_2020</string>
+    <string name="title_activity_drawer">DrawerActivity</string>
+    <string name="navigation_drawer_open">Abrir Menu de Navegação</string>
+    <string name="navigation_drawer_close">Fechar Menu de Navegação</string>
+    <string name="nav_header_title">Paulo Salvatore</string>
+    <string name="nav_header_subtitle">paulo.salvatore@oceanbrasil.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Configurações</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Galeria</string>
+    <string name="menu_slideshow">Slideshow</string>
 </resources>

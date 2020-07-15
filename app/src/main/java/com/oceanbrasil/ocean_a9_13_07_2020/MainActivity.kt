@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         btAsyncKotlin.setOnClickListener {
-            Thread.sleep(20000)
+//            Thread.sleep(20000)
 //            iniciarAsyncKotlin()
         }
     }
